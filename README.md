@@ -1,0 +1,1 @@
+# cruisebuddy-assets
